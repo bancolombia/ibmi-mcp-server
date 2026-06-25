@@ -211,5 +211,5 @@ uvicorn==0.35.0
     # via
     #   mcp
     #   mcp-contextforge-gateway
-zeroconf==0.147.0
+zeroconf==0.149.16
     # via mcp-contextforge-gateway
