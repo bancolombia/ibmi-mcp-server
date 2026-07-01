@@ -145,7 +145,7 @@ python-dotenv==1.1.1
     #   agents (pyproject.toml)
     #   agno
     #   pydantic-settings
-python-multipart==0.0.20
+python-multipart==0.0.31
     # via
     #   agno
     #   mcp
