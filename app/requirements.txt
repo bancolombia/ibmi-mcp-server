@@ -53,7 +53,7 @@ lomond==0.3.3
 lxml==6.0.2
 markdown-it-py==4.0.0
 markupsafe==3.0.2
-mcp==1.15.0
+mcp==1.28.1
 mdurl==0.1.2
 more-itertools==10.8.0
 numpy==2.3.1
