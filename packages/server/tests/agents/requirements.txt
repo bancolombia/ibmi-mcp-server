@@ -98,7 +98,7 @@ markupsafe==3.0.2
     # via
     #   jinja2
     #   mako
-mcp==1.11.0
+mcp==1.28.1
     # via
     #   agents (pyproject.toml)
     #   mcp-contextforge-gateway
