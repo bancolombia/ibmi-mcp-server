@@ -102,7 +102,7 @@ mcp==1.11.0
     # via
     #   agents (pyproject.toml)
     #   mcp-contextforge-gateway
-mcp-contextforge-gateway==0.3.1
+mcp-contextforge-gateway==1.0.3
     # via agents (pyproject.toml)
 mdurl==0.1.2
     # via markdown-it-py
